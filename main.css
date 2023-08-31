@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 40px;
+    background-color: #f33d3d;
+}
+
+* {
+    font-family: Arial;
+}
+
+h1 {
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+li {
+    margin: 10px 0 10px 0;
+}
+
+a {
+    padding: 5px;
+    background-color: #fff;
+    border-radius: 3px;
+    text-decoration: none;
+    color: black;
+    transition: 0.5s;
+}
+
+a:hover {
+    background-color: #696969;
+    color: white;
+}
