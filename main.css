@@ -31,3 +31,7 @@ a:hover {
     background-color: #696969;
     color: white;
 }
+
+.ol:hover {
+   background-color: lightpink;
+}
